@@ -1,0 +1,34 @@
+{
+  "status": { "code": 200 },
+  "result": {
+    "title": "MAG B650 TOMAHAWK WIFI",
+    "downloads": {
+      "AMI BIOS": [
+        {
+          "download_version": "7D75v1R2",
+          "download_release": "2026-07-06",
+          "download_description": "- AGESA ComboAM5 1.2.0.3\n- Improve system stability",
+          "download_url": "https://download.msi.com/bos_exe/mb/7D75v1R2.zip",
+          "download_size": 18499572,
+          "download_sha256": "SHA-256:c9021a2e4f7b8c3d9e0a1b2c3d4e5f60718293a4b5c6d7e8f9001122334455<br>"
+        },
+        {
+          "download_version": "7D75v1R1 (Beta version)",
+          "download_release": "2026-05-14",
+          "download_description": "- Initial AGESA ComboAM5 1.2.0.3 beta\n- Fix boot loop on some memory kits",
+          "download_url": "https://download.msi.com/bos_exe/mb/7D75v1R1.zip",
+          "download_size": 18402048,
+          "download_sha256": "SHA-256:aabbccddeeff00112233445566778899aabbccddeeff0011223344556677<br>"
+        },
+        {
+          "download_version": "7D75v14",
+          "download_release": "2026-01-20",
+          "download_description": "- AGESA ComboAM5 1.1.0.0\n- Initial release",
+          "download_url": "https://download.msi.com/bos_exe/mb/7D75v14.zip",
+          "download_size": 17998336,
+          "download_sha256": null
+        }
+      ]
+    }
+  }
+}

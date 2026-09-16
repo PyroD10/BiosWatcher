@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BiosWatcher.Tests/BiosWatcher.Tests.csproj" />
+  <Project Path="BiosWatcher/BiosWatcher.csproj" />
+</Solution>

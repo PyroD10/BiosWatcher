@@ -1,0 +1,77 @@
+{
+  "Result": {
+    "Count": 3,
+    "Obj": [
+      {
+        "Name": "BIOS",
+        "Count": 1,
+        "Files": [
+          {
+            "Id": "1@66@1@4@-1@3@ROG-STRIX-X670E-E-GAMING-WIFI-ASUS-3902.ZIP",
+            "Version": "3902",
+            "Title": "",
+            "Description": "\"1. Updated AGESA ComboAM5 PI 1.3.0.1b Patch A to support the GNR Transparent Secure Memory Encryption (TSME) feature.<br/>2. Enhanced memory performance, system stability, and compatibility with CXMT memory chips.<br/><br/>Before running the USB BIOS Flashback tool, please rename the BIOS file (SX670EE.CAP) using BIOSRenamer.\"",
+            "FileSize": "17.4 MB",
+            "ReleaseDate": "2026/07/16",
+            "IsRelease": "1",
+            "DownloadUrl": {
+              "Global": "https://dlcdnets.asus.com/pub/ASUS/mb/BIOS/ROG-STRIX-X670E-E-GAMING-WIFI-ASUS-3902.ZIP?model=ROG STRIX X670E-E GAMING WIFI",
+              "China": null
+            },
+            "sha256": "AC9FA522D1663FB244B14104F40DF6021A82DBBA538ACCB5F8EFC9FC0C304D13"
+          },
+          {
+            "Id": "1@66@1@4@-1@3@ROG-STRIX-X670E-E-GAMING-WIFI-ASUS-3901.ZIP",
+            "Version": "3901",
+            "Title": "",
+            "Description": "\"1.Updated AGESA ComboAM5 PI 1.3.0.1b Patch A to support the GNR Transparent Secure Memory Encryption (TSME) feature.<br/><br/>Before running the USB BIOS Flashback tool, please rename the BIOS file (SX670EE.CAP) using BIOSRenamer.\"",
+            "FileSize": "17.4 MB",
+            "ReleaseDate": "2026/06/30",
+            "IsRelease": "0",
+            "DownloadUrl": {
+              "Global": "https://dlcdnets.asus.com/pub/ASUS/mb/BIOS/ROG-STRIX-X670E-E-GAMING-WIFI-ASUS-3901.ZIP?model=ROG STRIX X670E-E GAMING WIFI",
+              "China": null
+            },
+            "sha256": "826C222B324EC3B213FC8C16FCE2BCB29EEB804D33BFC606B523F117EC215AED"
+          },
+          {
+            "Id": "1@66@1@4@-1@3@ROG-STRIX-X670E-E-GAMING-WIFI-ASUS-2604.zip",
+            "Version": "2604",
+            "Title": "",
+            "Description": "\"1.Updated AMD AGESA to version 1.2.0.2b<br/>2.Fixed a few fan-related bugs and improved overall system performance.<br/><br/>Before running the USB BIOS Flashback tool, please rename the BIOS file (SX670EE.CAP) using BIOSRenamer.\"",
+            "FileSize": "15.51 MB",
+            "ReleaseDate": "2024/12/05",
+            "IsRelease": "1",
+            "DownloadUrl": {
+              "Global": "https://dlcdnets.asus.com/pub/ASUS/mb/BIOS/ROG-STRIX-X670E-E-GAMING-WIFI-ASUS-2604.zip?model=ROG STRIX X670E-E GAMING WIFI",
+              "China": null
+            },
+            "sha256": ""
+          }
+        ]
+      },
+      {
+        "Name": "Firmware",
+        "Count": 1,
+        "Files": [
+          {
+            "Id": "1@66@1@4@-1@20@USB_Audio_FW_Update_Tool_PID1A52_1A53_2022-12-05_ASUS.zip",
+            "Version": "2022/12/05",
+            "Title": "",
+            "Description": "USB Audio firmware update tool.",
+            "FileSize": "3.1 MB",
+            "ReleaseDate": "2022/12/05",
+            "IsRelease": "1",
+            "DownloadUrl": {
+              "Global": "https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/USB_Audio_FW_Update_Tool_PID1A52_1A53_2022-12-05_ASUS.zip?model=ROG STRIX X670E-E GAMING WIFI",
+              "China": null
+            },
+            "sha256": ""
+          }
+        ]
+      }
+    ]
+  },
+  "Status": "SUCCESS",
+  "Message": "SUCCESS"
+}
